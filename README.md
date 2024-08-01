@@ -1,5 +1,5 @@
 # FaceRecognition
-Face Recognition with Principal Component Analysis (PCA) &amp; K-Nearest Neighbors (KNN) using AT&amp;T Database of Faces
+Face Recognition with Principal Component Analysis (PCA) &amp; K-Nearest Neighbors (KNN) using AT&amp;T Database of Faces 
 
 ## Dataset:
 ### The AT&T Database of Faces
@@ -59,3 +59,5 @@ The AddUserImages.py Code Simply Allows Users To Add Their Images To The Dataset
 So The User Will Enter His Name In the Command Prompt As It Will Be Used As The Folder Name That Will Contain His Images, Which In Turn Will Be Used As A Label For His Images And Then His Camera Will Open And Take 10 Images, Convert Them To Gray Scale And Then Store The Images In The User’s Folder.
 
 Now, If The Model is Trained Again, It Will Include The User Images In the Training Data. 
+
+### Note: Extract the dataset in the same dirctory that contains the code.
